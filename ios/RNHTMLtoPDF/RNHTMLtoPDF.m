@@ -1,6 +1,5 @@
 
 //  Created by Christopher on 9/3/15.
-
 #import <CoreGraphics/CoreGraphics.h>
 #import <UIKit/UIKit.h>
 #import <React/RCTConvert.h>
